@@ -4,7 +4,7 @@
   <p>Original concept by <a href="https://www.youtube.com/c/ConceptCentral">Concept Central</a></p>
   
   
-  [![GitHub Repo stars](https://img.shields.io/github/stars/theodorusclarence/ts-nextjs-tailwind-starter)](https://github.com/devkennyy/discord-reimagined/stargazers) ![GitHub repo size](https://img.shields.io/github/repo-size/devkennyy/discord-reimagined) ![GitHub repo license](https://img.shields.io/github/license/devkennyy/discord-reimagined)
+![GitHub repo license](https://img.shields.io/badge/license-MIT-informational) ![GitHub repo maintainer](https://img.shields.io/badge/maintainer-devkennyy-informational)
 </div>
 
 ## Tools & Technologies
