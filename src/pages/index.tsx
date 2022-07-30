@@ -1,21 +1,22 @@
 import * as React from 'react';
 
-import Layout from '@/components/layout/Layout';
-import Seo from '@/components/Seo';
+import Chat from "@/components/Chat";
+import MemberList from "@/components/MemberList";
+import Seo from "@/components/Seo";
+import ServerList from "@/components/ServerList";
+import ServerNavbar from "@/components/ServerNavbar";
+import Sidebar from "@/components/Sidebar";
 
-// !STARTERCONF -> Select !STARTERCONF and CMD + SHIFT + F
-// Before you begin editing, follow all comments with `STARTERCONF`,
-// to customize the default configuration.
 
 export default function HomePage() {
   return (
-    <Layout>
-      {/* <Seo templateTitle='Home' /> */}
+      <>
       <Seo />
-
-      <main>
-        <h1>Home</h1>
-      </main>
-    </Layout>
+      <ServerList />
+      <ServerNavbar />
+      <Sidebar />
+      <Chat />
+      <MemberList />
+      </>
   );
 }
