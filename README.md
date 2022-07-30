@@ -21,6 +21,11 @@
 
 Pull request and bug reports are welcome, please open an issue if you have any questions.
 
+## To-Do
+This is a list of features/known bugs that I plan to implement/fix. 
+- [ ] Interactive chat (send and store messages in local storage)
+- [ ] Give all buttons functionality
+
 ## Disclaimer
 
 I am not affiliated with Discord, this is merely a concept.
