@@ -9,12 +9,11 @@ export default function Header() {
   return (
     <header className='sticky top-0 z-50 bg-white'>
       <div className='layout flex h-14 items-center justify-between'>
-          Home
+        Home
         <nav>
           <ul className='flex items-center justify-between space-x-4'>
             {links.map(({ href, label }) => (
-              <li key={`${href}${label}`}>
-              </li>
+              <li key={`${href}${label}`}></li>
             ))}
           </ul>
         </nav>
