@@ -17,6 +17,9 @@
 - 💖 Prettier
 - 📦 Yarn
 
+## BetterDiscord
+We're currently working on a CSS file to use this layout on your client.
+
 ## Contributing
 
 Pull request and bug reports are welcome, please open an issue if you have any questions.
